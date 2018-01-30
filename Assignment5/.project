@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>Assignment5</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>src/BuisnessClassRental.java</name>
+			<type>1</type>
+			<location>/Users/dereklohnes/Documents/workspace_spock/Assignment5/src/BuisnessClassRental.java</location>
+		</link>
+		<link>
+			<name>src/EconomyClassRental.java</name>
+			<type>1</type>
+			<location>/Users/dereklohnes/Documents/workspace_spock/Assignment5/src/EconomyClassRental.java</location>
+		</link>
+		<link>
+			<name>src/RentalContract.java</name>
+			<type>1</type>
+			<location>/Users/dereklohnes/Documents/workspace_spock/Assignment5/src/RentalContract.java</location>
+		</link>
+		<link>
+			<name>src/RentalDriver.java</name>
+			<type>1</type>
+			<location>/Users/dereklohnes/Documents/workspace_spock/Assignment5/src/RentalDriver.java</location>
+		</link>
+		<link>
+			<name>src/RentalGUI.java</name>
+			<type>1</type>
+			<location>/Users/dereklohnes/Documents/workspace_spock/Assignment5/src/RentalGUI.java</location>
+		</link>
+	</linkedResources>
+</projectDescription>
